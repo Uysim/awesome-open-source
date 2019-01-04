@@ -7,3 +7,7 @@ Greate Open source projects for use
 - [ShareTribe](https://github.com/sharetribe/sharetribe) : Market Place
 - [RainLoop](http://www.rainloop.net/) : Web Mail
 
+
+### Document Generators
+- [Slate](https://github.com/lord/slate)
+- [Daux](https://daux.io/)
