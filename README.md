@@ -6,6 +6,7 @@ Greate Open source projects for use
 - [Peatio](https://github.com/peatio/peatio) : Crypto Currency exchange
 - [ShareTribe](https://github.com/sharetribe/sharetribe) : Market Place
 - [RainLoop](http://www.rainloop.net/) : Web Mail
+- [NextCloud](https://github.com/nextcloud) : Email attachments, Public chat apps, consumer file sharing tools and telephone to communicate and collaborate
 
 
 ### Document Generators
