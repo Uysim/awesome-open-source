@@ -8,6 +8,7 @@ Greate Open source projects for use
 - [RainLoop](http://www.rainloop.net/) : Web Mail
 - [NextCloud](https://github.com/nextcloud) : Email attachments, Public chat apps, consumer file sharing tools and telephone to communicate and collaborate
 - [Reaction Commerce](https://github.com/reactioncommerce/reaction) : customizable, real-time reactive, JavaScript commerce platform
+- [ISPConfig](https://www.ispconfig.org/) : Manage hosting server
 
 ### Document Generators
 - [Slate](https://github.com/lord/slate)
